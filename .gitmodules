@@ -1,0 +1,6 @@
+[submodule "lib"]
+	path = lib
+	url = https://github.com/Faz95210/Cv2Qml
+[submodule "Cv2Qml"]
+	path = Cv2Qml
+	url = https://github.com/Faz95210/Cv2Qml
