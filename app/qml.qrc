@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ShadersList.qml</file>
+        <file>shaders/billboard.fsh</file>
+        <file>shaders/blueseeker.fsh</file>
+        <file>shaders/glow.fsh</file>
+        <file>shaders/outline.fsh</file>
+        <file>shaders/redseeker.fsh</file>
+        <file>shaders/split.fsh</file>
+        <file>shaders/thermalCam.fsh</file>
+        <file>shaders/warhol.fsh</file>
+        <file>shaders/yellowseeker.fsh</file>
+        <file>qml/Effect.qml</file>
+        <file>qml/main.qml</file>
+        <file>shaders/displacement.fsh</file>
+    </qresource>
+    <qresource prefix="/shaders" lang="glsl"/>
+</RCC>
