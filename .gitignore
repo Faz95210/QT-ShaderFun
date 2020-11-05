@@ -1,0 +1,4 @@
+*.pro.user
+Cv2Qml
+app/.vscode
+app/lib
